@@ -4,9 +4,9 @@ This is the repo for code produced during the [HEGL](https://hegl.mathi.uni-heid
 
 Here is a brief description of the directory structure: 
 
-- `Video/` contains a small animation of geodesics in the Poincaré disc. It is created with `Manim`, [community version](https://github.com/manimCommunity/manim). Acknowledgement: [This wonderful video on the 7-Circle Theorem](https://www.youtube.com/watch?v=m9v0h2ibYpo).
-- `geodesics.py`: A script for generation of the illustration of geodesics on the Poincaré disc. Created with the `geoopt` Python library. Acknowledgement: The [`geoopt` readthedocs](https://geoopt.readthedocs.io/en/latest/extended/stereographic.html). 
-- `RejectionSampling.ipynb`: Juypter notebook with code for the sampling. 
+- `Illustrations/Video/` contains a small animation of geodesics in the Poincaré disc. It is created with `Manim`, [community version](https://github.com/manimCommunity/manim). Acknowledgement: [This wonderful video on the 7-Circle Theorem](https://www.youtube.com/watch?v=m9v0h2ibYpo).
+- `Illustrations/geodesics.py`: A script for generation of the illustration of geodesics on the Poincaré disc. Created with the `geoopt` Python library. Acknowledgement: The [`geoopt` readthedocs](https://geoopt.readthedocs.io/en/latest/extended/stereographic.html). 
+- `Sampling/RejectionSampling.ipynb`: Juypter notebook with code for the sampling. 
 
 Please feel free to [reach out](emailto: sharanya.achut@stud.uni-goettingen.de) with any questions or comments!  
 
